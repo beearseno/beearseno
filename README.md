@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning with single board computers
 - 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on DIY musical instruments
-- 📫 How to reach me beearseno@me.com
+- 📫 How to reach me beearseno@aol.com
 
 <!---
 beearseno/beearseno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
